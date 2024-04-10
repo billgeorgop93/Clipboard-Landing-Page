@@ -8,4 +8,4 @@ As it is the first 'junior' challenges, I made it as professional as it could be
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: https://zer0fr0st93.github.io/Clipboard-Landing-Page/
+Live: https://billgeorgop93.github.io/Clipboard-Landing-Page/
